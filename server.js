@@ -8,7 +8,7 @@ const HOST = '0.0.0.0';
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from your Node.js application in Docker!!!!\n');
+  res.send('Hello World!!!Welcome to k8s!!!\n');
 });
 
 app.get('/health', (req, res) => {
