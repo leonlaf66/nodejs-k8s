@@ -90,7 +90,7 @@ app.get('/', (req, res) => {
 <body>
 <header>
   <div class="icon">☸</div>
-  <div><h1>nodejs-k8s</h1><p class="sub">Kubernetes Node.js Demo</p></div>
+  <div><h1>Temu</h1><p class="sub">Temu &gt; Amazon</p></div>
   <span class="live"><span class="dot"></span>Running</span>
 </header>
 <main>
